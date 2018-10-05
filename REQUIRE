@@ -1,3 +1,4 @@
 julia 0.7
-Flatten
+Flatten 0.0.1
 Unitful
+Reexport

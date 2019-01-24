@@ -1,3 +1,6 @@
+# Depreciated: this functionalithy has been rolled into Flatten.jl, with `ulflatten`, `ulreconstruct` and `ulupdate!` functions available if you load `using Unitful`.
+
+
 # UnitlessFlatten
 
 [![Build Status](https://travis-ci.org/rafaqz/UnitlessFlatten.jl.svg?branch=master)](https://travis-ci.org/rafaqz/UnitlessFlatten.jl)
